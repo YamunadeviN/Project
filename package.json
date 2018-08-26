@@ -1,0 +1,13 @@
+//npm (Node Package Manager) to install all the dependencies
+
+{
+    "name": "student-api",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "~1.0.1",
+        "cors": "2.8.1",
+        "express": "~4.0.0",
+        "mongodb": "^3.1.3",
+        "mongoose": "~3.6.13"
+    }
+}
